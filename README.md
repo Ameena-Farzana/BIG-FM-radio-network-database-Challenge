@@ -1,6 +1,6 @@
 # BIG-FM-radio-network-database-Challenge
 
-![image](https://github.com/Ameena-Farzana/BIG-FM-radio-network-database-Challenge/assets/121862099/b8b66b7c-baa6-4aee-bec8-c7cf8e5ba1e9)
+![image](https://github.com/Ameena-Farzana/BIG-FM-radio-network-database-Challenge/assets/121862099/cfc0206e-3f65-450a-bffd-37bc64edab6b)
 
 
 ## Tables
