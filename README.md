@@ -24,6 +24,8 @@ OnlinePresence
 
 The challenge is to craft SQL queries to extract insights from the 92.7 BIG FM radio network database.
 
+link : https://nitish2162001.github.io/webpa/
+
 ## Questions
 
 1)Retrieve all stations in the "East" region?
@@ -45,3 +47,4 @@ The challenge is to craft SQL queries to extract insights from the 92.7 BIG FM r
 9)Retrieve the stations in the "South" region launched after 2010?
 
 10)Rank hosts based on the number of shows they have hosted?
+
