@@ -7,10 +7,10 @@ The challenge is to craft SQL queries to extract insights from the 92.7 BIG FM r
 
 ## Tables
 
-Stations
-Hosts
-Shows
-Partnerships
+  Stations
+  Hosts
+  Shows
+  Partnerships
 ShowPartnerships
 Awards
 OnlinePresence
